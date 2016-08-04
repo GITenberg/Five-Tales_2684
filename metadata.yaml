@@ -1,0 +1,34 @@
+_repo: Five-Tales_2684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: This 1919 collection of the Nobel Prize-winning author's short fiction
+  includes the original appearance of Indian Summer of a Forsyte," later part of the
+  famous Forsyte Saga . Also appearing in this volume are The First and Last," A Stoic,"
+  The Apple Tree," and The Juryman."
+gutenberg_issued: '2006-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forsyte family (Fictitious characters) -- Fiction'
+- !lcsh 'Domestic fiction, English'
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Families -- England -- Fiction'
+- GITenberg
+tableOfContents: The first and the last -- A stoic -- The apple tree -- The juryman
+  -- Indian Summer of a Forsyte.
+title: Five Tales
+url: http://www.gutenberg.org/ebooks/2684
