@@ -1,5 +1,8 @@
 _repo: Five-Tales_2684
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -13,6 +16,8 @@ description: This 1919 collection of the Nobel Prize-winning author's short fict
   includes the original appearance of Indian Summer of a Forsyte," later part of the
   famous Forsyte Saga . Also appearing in this volume are The First and Last," A Stoic,"
   The Apple Tree," and The Juryman."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2684#Five-Tales
 gutenberg_issued: '2006-06-14'
 gutenberg_type: Text
 identifiers:
